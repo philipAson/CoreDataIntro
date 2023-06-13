@@ -16,6 +16,7 @@
 		0C02C4CF2A3888DC00586EF2 /* CoredataIntroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C02C4CE2A3888DC00586EF2 /* CoredataIntroTests.swift */; };
 		0C02C4D92A3888DC00586EF2 /* CoredataIntroUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C02C4D82A3888DC00586EF2 /* CoredataIntroUITests.swift */; };
 		0C02C4DB2A3888DC00586EF2 /* CoredataIntroUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C02C4DA2A3888DC00586EF2 /* CoredataIntroUITestsLaunchTests.swift */; };
+		0C02C4E82A3896DC00586EF2 /* ShoppingListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C02C4E72A3896DC00586EF2 /* ShoppingListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		0C02C4D42A3888DC00586EF2 /* CoredataIntroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoredataIntroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C02C4D82A3888DC00586EF2 /* CoredataIntroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoredataIntroUITests.swift; sourceTree = "<group>"; };
 		0C02C4DA2A3888DC00586EF2 /* CoredataIntroUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoredataIntroUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0C02C4E72A3896DC00586EF2 /* ShoppingListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				0C02C4C12A3888DC00586EF2 /* Persistence.swift */,
 				0C02C4C32A3888DC00586EF2 /* CoredataIntro.xcdatamodeld */,
 				0C02C4BE2A3888DC00586EF2 /* Preview Content */,
+				0C02C4E72A3896DC00586EF2 /* ShoppingListView.swift */,
 			);
 			path = CoredataIntro;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 				0C02C4C52A3888DC00586EF2 /* CoredataIntro.xcdatamodeld in Sources */,
 				0C02C4BB2A3888DB00586EF2 /* ContentView.swift in Sources */,
 				0C02C4B92A3888DB00586EF2 /* CoredataIntroApp.swift in Sources */,
+				0C02C4E82A3896DC00586EF2 /* ShoppingListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
